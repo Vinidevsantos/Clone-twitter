@@ -11,7 +11,7 @@ import {
   HomeIcon,
   SearchIcon,
   BellIcon,
-  EmailIcon
+  EmailIcon,
  } from './styles';
 
 const Main: React.FC = () => {
