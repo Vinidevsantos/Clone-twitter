@@ -1,47 +1,62 @@
-Link netlify:
-https://clone-twitter-vinidevsantos.netlify.app/
+<h1 align="center">
+UI Clone - Twitter Responsive
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
+<p align="center">Deployed <a href="https://clone-twitter-vinidevsantos.netlify.app/">here</a>.</p>
 
-## Available Scripts
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/vinidevsantos?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/vinidevsantos/Clone-twitter?style=social">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vinidevsantos/Clone-twitter">
 
-### `yarn start`
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<p align="center">
+  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+</p>
 
-### `yarn test`
+## 🚀 Tecnologias
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### `yarn build`
+- [React](https://reactjs.org)
+- [Styled Components](https://styled-components.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Projeto
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Clone-twitter e um projeto de estudo que a rocketseat fez um video ensinando as tecnologias.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🔖 Layout
 
-### `yarn eject`
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/cjNh1bd93pbJBFOza25K7L/Twitter-Clone?node-id=1%3A2). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🤔 Como contribuir
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :memo: Licença
 
-## Learn More
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+Contribuicao by Vinicius Santos :wave: [Get in touch!](https://www.linkedin.com/in/vinidesousa/)
