@@ -22,10 +22,6 @@ UI Clone - Twitter Responsive
 
 <br>
 
-<p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -37,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Clone-twitter e um projeto de estudo que a rocketseat fez um video ensinando as tecnologias.
+- [Notion](https://www.notion.so/Twitter-Clone-367ccf86afca45658e047c8a0da2005f)
 
 ## 🔖 Layout
 
