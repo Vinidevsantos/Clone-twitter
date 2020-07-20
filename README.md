@@ -19,6 +19,11 @@ UI Clone - Twitter Responsive
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vinidevsantos/Clone-twitter">
 
 </p>
+<p align="center">
+  <img alt="Clone-twitter" src="https://github.com/Vinidevsantos/Clone-twitter/blob/master/twitter.jpg" width="100%">
+</p>
+
+
 
 <br>
 
