@@ -62,3 +62,22 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
 Contribuicao by Vinicius Santos :wave: [Get in touch!](https://www.linkedin.com/in/vinidesousa/)
+
+
+
+### Autor
+
+---
+
+<a href="https://github.com/Vinidevsantos/">
+ <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/62895999?s=460&u=90819b38224622bceb1b6f55d1bde2dae94d469f&v=4" width="100px;" alt="Vini imagem"/>
+ <br />
+ <sub><b>Vinicius Santos</b></sub></a> <a href="https://github.com/Vinidevsantos/" title="Vinidevsantos">🚀</a>
+
+
+Feito com ❤️ por Vinicius Santos 👋🏽 Entre em contato!
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@ViniSantosDev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ViniSantosDev)](https://twitter.com/ViniSantosDev)
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinidevsantos/)](https://www.linkedin.com/in/vinidevsantos/) 
+[![Gmail Badge](https://img.shields.io/badge/-santosvini.rv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosvini.rv@gmail.com)](mailto:santosvini.rv@gmail.com)
